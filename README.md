@@ -55,18 +55,24 @@ kantin.exe
 
 # 1. Tambah Produk
    <img width="1366" height="768" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/2023cd9e-c727-4a4b-a39c-888cd2c62a43" />
+   
 # 2. Transaksi Beberapa Produk
    <img width="1366" height="768" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/14ed7237-5022-4556-b9e6-77182a42f19a" />
    <img width="1366" height="768" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/fc7b98ba-d0e4-4623-81b1-3ffda6f04fc6" />
+   
 # 3. Pembaharuan Stok
    <img width="1366" height="768" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/e82543ce-7a38-4c48-877e-2195f96173a5" />
+   
 # 4. Stok Tidak Cukup
    <img width="1366" height="768" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/3deda18c-4287-4793-9d06-bd9187f39067" />
+   
 # 5. Laporan Penjualan
    <img width="1366" height="768" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/62f99de6-c806-457e-988c-c46171de675a" />
+   
 # 6. Pengurutan
    <img width="1366" height="768" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/0276f241-3806-45e8-9bd3-8790a904b6d7" />
    <img width="1366" height="768" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/c9f4378a-eb42-4901-a276-6ec2df1dcf84" />
+   
 # 7. Pencarian dan Stok Menipis
    <img width="1366" height="768" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/e41ece34-61cc-4c9b-9314-139176bd7397" />
 
